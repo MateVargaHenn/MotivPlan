@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MotivPlan.ServiceDefaults/MotivPlan.ServiceDefaults.csproj" />
+    <Project Path="src/MotivPlan.WebApi/MotivPlan.WebApi.csproj" />
+  </Folder>
+</Solution>
